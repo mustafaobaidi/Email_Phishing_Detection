@@ -1,12 +1,6 @@
-﻿Threat Intel Risk Analysis A2 (Milestone2)
+1- Purpose
 
-Mustafa Al-Obaidi October 2022
-
-1  Introduction
-
-During this milestone, there has been a significant amount of research and data collection performed by a group of students. I was able to work with a few of my classmates to collect the data from an online source. Also, the data was then processed and formatted into a Comma-separated values (CSV) file.
-
-In this report, the collection and processing of the data will be explained. Also, the models that were used will be discussed in detail, including the results of each model. Additionally, we will look at the results and decide which model performed the best. Finally, we conclude by providing a possible improvement for the project.
+The purpose of this project is to processes a set of phishing emails and creat an AI models to detect similar phishing emails that are performed by different threat actors.
 
 2  Data Collection
 
